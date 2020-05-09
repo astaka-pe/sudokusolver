@@ -1,0 +1,9 @@
+＜level_1.ipynb＞
+画像読み込み・エッジ検出・9*9画像分割
+→ raw_img フォルダに保存
+
+＜display_ans.ipynb＞
+・画像ファイル読み込み
+・problem行列作成
+→＜solver.py＞の関数によって数独を解く
+・解答を表示
