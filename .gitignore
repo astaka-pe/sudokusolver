@@ -5,6 +5,5 @@ input/
 output/
 
 *.jpg
-*.png
 *-ubyte
 *.txt
