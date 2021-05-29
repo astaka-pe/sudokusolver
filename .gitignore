@@ -3,3 +3,7 @@ __program/
 .ipynb_checkpoints/
 input/
 output/
+
+*.jpg
+*-ubyte
+*.txt
